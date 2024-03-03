@@ -1,6 +1,6 @@
 {
-    "displayName": "Mod Template",
-    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration.",
+    "displayName": "Terramod",
+    "description": "adds a new planet named Terram",
     "version": "v1.0",
     "minGameVersion": "146",
     "author": "You",
