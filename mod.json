@@ -3,7 +3,7 @@
     "description": "adds a new planet named Terram",
     "version": "v1.0",
     "minGameVersion": "146",
-    "author": "You",
+    "author": "[acid]Terragold",
     "java": true,
     "main": "template.ModTemplate"
 }
